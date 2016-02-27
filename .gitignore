@@ -1,0 +1,8 @@
+### Java
+target/
+
+hs_err_pid*
+
+### idea
+*.iml
+.idea/
